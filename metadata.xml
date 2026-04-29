@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Combat Name HUD</name>
+    <directory>combat_name_hud</directory>
+    <id>3713545098</id>
+    <description>Combat Name HUD is a customizable combat name overlay that adds readable HUD labels for bosses during boss fights and temporary labels for regular enemies when they are hit.
+
+Labels can be positioned in a fixed HUD spot, above the entity, or below the entity, with separate settings for bosses and enemies.
+
+Main features:
+- Boss and enemy combat name labels.
+- Fixed, above-entity, and below-entity position modes.
+- Scale, offset, alpha, line spacing, and enemy display-time controls.
+- Preset colors, custom RGB, Rainbow mode, and HP-based color mode.
+- Boss intro animations, active label effects, and death effects.
+- Champion-themed styling with optional descriptors.
+- Hit flash, hit scale punch, and reactive shake feedback.
+- Multi-boss support with repeated boss grouping.
+- Mod Config Menu integration with live previews and an animated Info showcase.
+- Compatible with current Mod Config Menu versions and forks.
+
+Requirements:
+- The Binding of Isaac: Repentance
+- Mod Config Menu (Pure/Impure)
+
+Optional:
+- REPENTOGON is supported and recommended for the most accurate champion detection and modded entity names, but the mod has safe fallback paths when REPENTOGON-specific features are unavailable.
+
+Version 1.0.0
+By Daft Fox</description>
+    <version>1.0.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>
